@@ -12,7 +12,7 @@ This is a multi-layer perceptron from scratch applied to the MNIST data set base
 - I have based myself on the code found on the book. 
 - I tried explaining what everyline of code is doing, except for the obvious parts
 - If something I have explained is wrong and/or I have miscomprehended the material, please let me know
-- The MNIST dataset has been uploaded here, so anyone can follow along
+- The MNIST test dataset is here to test the trained model
 - the MLP was applied to the MNIST training set and tested with the MNIST testing set
 
 
